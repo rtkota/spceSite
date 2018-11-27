@@ -1,3 +1,15 @@
 .jumbotron {
 	background-color: antiquewhite;
+	position: relative;
+}
+
+#pic1 {
+text-align: center;
+}
+#pic2 {
+text-align: center;
+}
+
+img {
+	backface-visibility:visible;
 }
